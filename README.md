@@ -1,11 +1,10 @@
-<h2 align="left">Olá, eu sou Oséias Magalhães 👋</h2>
+<h2 align="left">Hi, I am Oséias Magalhães 👋</h2>
 
-- 🔭 Trabalhando no Backend como Project Manager
-- 👨‍🎓 Cursando Mestrado em Computação Aplicada pela UEPG
-- 💬 Graduado em Engenharia de Computação pela UEPG, com especialização em Administração de Banco de Dados pela Unopar, com fome e sede por tecnologia.
+- 🔭 Working on Backend how Senior Developer/Tech Lead
+- 👨‍🎓 Studying for a Master's degree in Applied Computing at UEPG
+- 💬 Graduated in Computer Engineering from UEPG, with a specialization in Database Administration from Unopar, with a hunger and thirst for technology.
+- ⚙️ Specialist in developing solutions with RPAs, integrating systems in the SaaS model, REST APIs, LLMs and Databases, using AWS and GCP architectures.
 - 📫 Email: contato@oseiasmagalhaes.com.br
-
-
 
 <div align="center">
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3o2djh2Z3lld2lqeng0czc3ZmpvNWR1aHJwOWE4dHgzeTRobmhxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
