@@ -5,6 +5,7 @@
 - 💬 Graduated in Computer Engineering from UEPG, with a specialization in Database Administration from Unopar, with a hunger and thirst for technology.
 - ⚙️ Specialist in developing solutions with RPAs, integrating systems in the SaaS model, REST APIs, LLMs and Databases, using AWS and GCP architectures.
 - 📫 Email: 10.oseias@gmail.com
+- 💡 Portfolio: [oseias-magalhaes.vercel.app](https://oseias-magalhaes.vercel.app/)
 
 <div align="center">
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3o2djh2Z3lld2lqeng0czc3ZmpvNWR1aHJwOWE4dHgzeTRobmhxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
